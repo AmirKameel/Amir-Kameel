@@ -1,2 +1,2 @@
-# Amir-Kameel
+# Neural Network
 Neural network model
